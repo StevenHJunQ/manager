@@ -1,4 +1,4 @@
-# manager
+﻿# manager
 ## 这是一个管理后台Demo的前后端代码
 ```
 前端技术 vue element
@@ -23,7 +23,7 @@ npm run serve
 npm run build
 ```
 
-## 特别鸣谢
+## 特别鸣谢 前端代码
 ```
 https://github.com/lin-xin/vue-manage-system
 ```
