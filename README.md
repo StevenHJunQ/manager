@@ -1,4 +1,10 @@
 ﻿# manager
+## 项目效果图
+![Image 1]([link_to_image_1](https://raw.githubusercontent.com/StevenHJunQ/manager/master/xg1.png))
+![Image 2]([link_to_image_2](https://raw.githubusercontent.com/StevenHJunQ/manager/master/xg2.png))
+![Image 3]([link_to_image_3](https://raw.githubusercontent.com/StevenHJunQ/manager/master/xg3.png))
+![Image 4]([link_to_image_4](https://raw.githubusercontent.com/StevenHJunQ/manager/master/xg4.png))
+
 ## 这是一个管理后台Demo的前后端代码
 ```
 前端技术 vue element
