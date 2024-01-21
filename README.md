@@ -22,6 +22,9 @@
 // 进入模板目录
 cd vue-manage-system
 // 安装项目依赖，等待安装完成之后，安装失败可用 cnpm 或 yarn
+npm cache clean --force
+rm -rf node_modules
+rm package-lock.json
 npm install
 // 开启服务器，浏览器访问 http://localhost:8080
 npm run serve
